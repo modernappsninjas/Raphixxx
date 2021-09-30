@@ -45,7 +45,7 @@ Status: "In Progress"
   
   
 ---  
-### Course Certificate Of Completion
+### Course Certificate Of Completion 
 
 Completion_Certificate: "Pending"  
 #####
